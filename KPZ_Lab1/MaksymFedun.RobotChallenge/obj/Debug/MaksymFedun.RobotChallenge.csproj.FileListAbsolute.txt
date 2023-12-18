@@ -1,0 +1,16 @@
+E:\VS Projects\MaksymFedun.RobotChallenge\MaksymFedun.RobotChallenge\bin\Debug\MaksymFedun.RobotChallenge.dll
+E:\VS Projects\MaksymFedun.RobotChallenge\MaksymFedun.RobotChallenge\bin\Debug\MaksymFedun.RobotChallenge.pdb
+E:\VS Projects\MaksymFedun.RobotChallenge\MaksymFedun.RobotChallenge\bin\Debug\Robot.Common.dll
+E:\VS Projects\MaksymFedun.RobotChallenge\MaksymFedun.RobotChallenge\obj\Debug\MaksymFedun.RobotChallenge.csproj.AssemblyReference.cache
+E:\VS Projects\MaksymFedun.RobotChallenge\MaksymFedun.RobotChallenge\obj\Debug\MaksymFedun.RobotChallenge.csproj.CoreCompileInputs.cache
+E:\VS Projects\MaksymFedun.RobotChallenge\MaksymFedun.RobotChallenge\obj\Debug\MaksymFedun.RobotChallenge.csproj.CopyComplete
+E:\VS Projects\MaksymFedun.RobotChallenge\MaksymFedun.RobotChallenge\obj\Debug\MaksymFedun.RobotChallenge.dll
+E:\VS Projects\MaksymFedun.RobotChallenge\MaksymFedun.RobotChallenge\obj\Debug\MaksymFedun.RobotChallenge.pdb
+E:\VS Projects\MaksymFedun.RobotChallenge2\MaksymFedun.RobotChallenge\bin\Debug\MaksymFedun.RobotChallenge.dll
+E:\VS Projects\MaksymFedun.RobotChallenge2\MaksymFedun.RobotChallenge\bin\Debug\MaksymFedun.RobotChallenge.pdb
+E:\VS Projects\MaksymFedun.RobotChallenge2\MaksymFedun.RobotChallenge\bin\Debug\Robot.Common.dll
+E:\VS Projects\MaksymFedun.RobotChallenge2\MaksymFedun.RobotChallenge\obj\Debug\MaksymFedun.RobotChallenge.csproj.AssemblyReference.cache
+E:\VS Projects\MaksymFedun.RobotChallenge2\MaksymFedun.RobotChallenge\obj\Debug\MaksymFedun.RobotChallenge.csproj.CoreCompileInputs.cache
+E:\VS Projects\MaksymFedun.RobotChallenge2\MaksymFedun.RobotChallenge\obj\Debug\MaksymFedun.RobotChallenge.csproj.CopyComplete
+E:\VS Projects\MaksymFedun.RobotChallenge2\MaksymFedun.RobotChallenge\obj\Debug\MaksymFedun.RobotChallenge.dll
+E:\VS Projects\MaksymFedun.RobotChallenge2\MaksymFedun.RobotChallenge\obj\Debug\MaksymFedun.RobotChallenge.pdb

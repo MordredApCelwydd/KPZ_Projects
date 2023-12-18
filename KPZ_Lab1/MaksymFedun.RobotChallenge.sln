@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaksymFedun.RobotChallenge", "MaksymFedun.RobotChallenge\MaksymFedun.RobotChallenge.csproj", "{734DDAE9-F890-444B-910F-8D404C59C1E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaksymFedunUnitTests", "MaksymFedunUnitTests\MaksymFedunUnitTests.csproj", "{5BBEF2EE-2C9B-4A22-AF51-44ED253C1B26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{734DDAE9-F890-444B-910F-8D404C59C1E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734DDAE9-F890-444B-910F-8D404C59C1E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734DDAE9-F890-444B-910F-8D404C59C1E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734DDAE9-F890-444B-910F-8D404C59C1E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BBEF2EE-2C9B-4A22-AF51-44ED253C1B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BBEF2EE-2C9B-4A22-AF51-44ED253C1B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BBEF2EE-2C9B-4A22-AF51-44ED253C1B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BBEF2EE-2C9B-4A22-AF51-44ED253C1B26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F962050-ABEA-40F3-A1E6-232010A74D2B}
+	EndGlobalSection
+EndGlobal
