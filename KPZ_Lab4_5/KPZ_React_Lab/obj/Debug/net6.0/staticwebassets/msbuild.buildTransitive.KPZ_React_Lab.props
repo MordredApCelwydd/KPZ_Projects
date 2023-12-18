@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\KPZ_React_Lab.props" />
+</Project>

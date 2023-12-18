@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44423",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Max\\Desktop\\Proj\\KPZ_Lab4_5\\KPZ_React_Lab\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}

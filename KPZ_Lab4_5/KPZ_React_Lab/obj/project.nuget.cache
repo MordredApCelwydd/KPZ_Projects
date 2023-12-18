@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "49oR8kVK5OtWO5LqxhXBezWtPVQf0Ua3QNsZuuZJhklzHiJiFKODNG2vnvr9ly4AyX6ZYnJSDtyUcEiXdm9bzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Max\\Desktop\\Proj\\KPZ_Lab4_5\\KPZ_React_Lab\\KPZ_React_Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Max\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.1\\microsoft.aspnetcore.spaproxy.6.0.1.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
